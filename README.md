@@ -11,8 +11,8 @@ AI Chatbot built with Django and OpenAI library.
 ## 💻 Screenshots
 
 <p align="center">
-   <img src="README_ASSETS/login.png"/>
-   <img src="README_ASSETS/usage-1.png"/>
+   <img src="https://i.ibb.co/37zsPkn/login.png"/>
+   <img src="https://i.ibb.co/HNBfWKz/usage-1.png"/>
 </p>
 
 ## ⚙️ Setting up
