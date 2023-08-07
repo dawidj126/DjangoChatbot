@@ -4,7 +4,7 @@ AI Chatbot built with Django and OpenAI library.
 
 ## 💡 Features
 
-- Creating users
+- Login and register
 - Chatting with AI Chatbot
 - More features coming soon...
 
